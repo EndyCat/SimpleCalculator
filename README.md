@@ -3,6 +3,7 @@
 ```sh
 pkg install python
 pkg install git
+pip install requirements.txt
 git clone https://github.com/EndyCat/SimpleCalculator
 ``` 
 ## Установка пк 
@@ -10,6 +11,7 @@ git clone https://github.com/EndyCat/SimpleCalculator
 (install git & python 
 git - git-scm.com/downloads
 python - python.org )
+pip install requirements.txt
 git clone https://github.com/EndyCat/SimpleCalculator
 ``` 
 ## Запуск...
