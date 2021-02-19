@@ -27,6 +27,9 @@ git clone https://github.com/EndyCat/SimpleCalculator
 cd (in termux)
 cd C:\Path-to-director
 cd SimpleCalculator
-py main.py
+python main.py
 ```
-https://sun9-50.userapi.com/impg/BXlxcOZKbGrDJ5JjbGrxAyYun0atA2ZgXucq9g/pgXQwFw93pQ.jpg?size=1280x583&quality=96&sign=ce4167ccc121c77bba67f3ccd7959ba4&type=album
+## Запуск оконной версии...
+```sh
+python main1.py
+```
