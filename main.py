@@ -2,7 +2,10 @@ from colorama import *
 from os import system
 init()
 while True:
-	system('cls')
+        try:
+	    system('cls')
+        except:
+            system('clear') 
 	print(Fore.MAGENTA)
 	print('░█████╗░░█████╗░██╗░░░░░░█████╗░██╗░░░██╗██╗░░░░░░█████╗░████████╗░█████╗░██████╗░')
 	print('██╔══██╗██╔══██╗██║░░░░░██╔══██╗██║░░░██║██║░░░░░██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗')
